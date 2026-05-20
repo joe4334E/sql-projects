@@ -1,1 +1,43 @@
-
+alumno_nombre,alumno_apellido,fecha_nac,apoderado,telefono,profesor_nombre,profesor_especialidad,curso_nombre,horas_semana,matricula_año,nota,tipo_evaluacion,asistencia_fecha,asistencia_presente,pago_monto,pago_fecha,pago_mes
+Ana Pérez,2005-03-12,Marta Pérez,555-0101,Carlos Gómez,Matemáticas,Matemática,4,2024,6.5,Prueba,2024-03-01,1,150,2024-03-10,Marzo
+ANA PEREZ,12/03/2005,MARTA PEREZ,5550101,CARLOS GOMEZ,matematicas,MATEMATICA,4,2024,siete,prueba,01/03/2024,SI,150,10/03/2024,marzo
+Luis García,2006-07-23,Luis García Sr,555-0102,Ana Rodríguez,Lenguaje,Lenguaje,6,2024,6.0,Trabajo,2024-03-01,1,150,2024-03-10,Marzo
+LUIS GARCIA,23/07/2006,LUIS GARCIA SR,5550102,ANA RODRIGUEZ,lenguaje,LENGUAJE,6,2024,seis,trabajo,01/03/2024,SI,150,10/03/2024,marzo
+María López,2005-11-05,Juan López,555-0103,Luis Torres,Ciencias,Biología,4,2024,7.0,Examen,2024-03-02,1,200,2024-03-15,Marzo
+MARIA LOPEZ,05/11/2005,JUAN LOPEZ,5550103,LUIS TORRES,ciencias,BIOLOGIA,4,2024,siete,examen,02/03/2024,SI,200,15/03/2024,marzo
+Carlos Ruiz,2007-01-18,Rosa Ruiz,555-0104,Marta Díaz,Historia,Historia,3,2024,5.5,Prueba,2024-03-02,0,150,2024-03-15,Marzo
+Carlos Ruíz,18/01/2007,ROSA RUIZ,5550104,MARTA DIAZ,historia,HISTORIA,3,2024,cinco punto cinco,prueba,02/03/2024,NO,150,15/03/2024,marzo
+Ana Torres,2006-09-30,Luis Torres,555-0105,Carlos Gómez,Matemáticas,Matemática,4,2024,8.0,Trabajo,2024-03-03,1,150,2024-03-20,Marzo
+ANA TORRES,30/09/2006,LUIS TORRES,5550105,CARLOS GOMEZ,matematicas,MATEMATICA,4,2024,ocho,trabajo,03/03/2024,SI,150,20/03/2024,marzo
+Luis Gomez,2005-12-12,Ana Gomez,555-0106,Ana Rodríguez,Lenguaje,Lenguaje,6,2024,6.5,Examen,2024-03-03,1,200,2024-03-20,Marzo
+LUIS GOMEZ,12/12/2005,ANA GOMEZ,5550106,ANA RODRIGUEZ,lenguaje,LENGUAJE,6,2024,seis punto cinco,examen,03/03/2024,SI,200,20/03/2024,marzo
+Sofia Mendez,2006-04-25,Pedro Mendez,555-0107,Luis Torres,Ciencias,Física,4,2024,7.5,Prueba,2024-03-04,1,150,2024-03-25,Marzo
+Sofía Méndez,25/04/2006,PEDRO MENDEZ,5550107,LUIS TORRES,ciencias,FISICA,4,2024,siete punto cinco,prueba,04/03/2024,SI,150,25/03/2024,marzo
+Pedro Diaz,2007-07-19,Rosa Diaz,555-0108,Marta Díaz,Historia,Historia,3,2024,6.0,Trabajo,2024-03-04,1,150,2024-03-25,Marzo
+Pedro Díaz,19/07/2007,ROSA DIAZ,5550108,MARTA DIAZ,historia,HISTORIA,3,2024,seis,trabajo,04/03/2024,SI,150,25/03/2024,marzo
+Laura Vega,2005-02-14,Juan Vega,555-0109,Carlos Gómez,Matemáticas,Matemática,4,2024,9.0,Examen,2024-03-05,1,200,2024-04-05,Abril
+Laura Vega,14/02/2005,JUAN VEGA,5550109,CARLOS GOMEZ,matematicas,MATEMATICA,4,2024,nueve,examen,05/03/2024,SI,200,05/04/2024,abril
+Diego Paz,2006-10-08,Ana Paz,555-0110,Ana Rodríguez,Lenguaje,Lenguaje,6,2024,5.0,Prueba,2024-03-05,0,150,2024-04-05,Abril
+Diego Paz,08/10/2006,ANA PAZ,5550110,ANA RODRIGUEZ,lenguaje,LENGUAJE,6,2024,cinco,prueba,05/03/2024,NO,150,05/04/2024,abril
+Valentina Cruz,2007-03-27,Luis Cruz,555-0111,Luis Torres,Ciencias,Química,4,2024,7.0,Trabajo,2024-03-06,1,150,2024-04-10,Abril
+Valentina Cruz,27/03/2007,LUIS CRUZ,5550111,LUIS TORRES,ciencias,QUIMICA,4,2024,siete,trabajo,06/03/2024,SI,150,10/04/2024,abril
+Javier Ortiz,2005-08-16,Rosa Ortiz,555-0112,Marta Díaz,Historia,Historia,3,2024,8.5,Examen,2024-03-06,1,200,2024-04-10,Abril
+Javier Ortíz,16/08/2005,ROSA ORTIZ,5550112,MARTA DIAZ,historia,HISTORIA,3,2024,ocho punto cinco,examen,06/03/2024,SI,200,10/04/2024,abril
+Camila Rios,2006-06-20,Marta Rios,555-0113,Carlos Gómez,Matemáticas,Matemática,4,2024,6.0,Prueba,2024-03-07,1,150,2024-04-15,Abril
+Camila Ríos,20/06/2006,MARTA RIOS,5550113,CARLOS GOMEZ,matematicas,MATEMATICA,4,2024,seis,prueba,07/03/2024,SI,150,15/04/2024,abril
+Andres Silva,2005-09-14,Luis Silva,555-0114,Ana Rodríguez,Lenguaje,Lenguaje,6,2024,7.5,Trabajo,2024-03-07,1,200,2024-04-15,Abril
+Andrés Silva,14/09/2005,LUIS SILVA,5550114,ANA RODRIGUEZ,lenguaje,LENGUAJE,6,2024,siete punto cinco,trabajo,07/03/2024,SI,200,15/04/2024,abril
+Daniela Mora,2007-02-22,Pedro Mora,555-0115,Luis Torres,Ciencias,Biología,4,2024,8.0,Examen,2024-03-08,1,150,2024-04-20,Abril
+Daniela Mora,22/02/2007,PEDRO MORA,5550115,LUIS TORRES,ciencias,BIOLOGIA,4,2024,ocho,examen,08/03/2024,SI,150,20/04/2024,abril
+Fernando Gil,2006-11-30,Rosa Gil,555-0116,Marta Díaz,Historia,Historia,3,2024,5.0,Prueba,2024-03-08,0,150,2024-04-20,Abril
+Fernando Gil,30/11/2006,ROSA GIL,5550116,MARTA DIAZ,historia,HISTORIA,3,2024,cinco,prueba,08/03/2024,NO,150,20/04/2024,abril
+Isabel Ponce,2005-04-18,Juan Ponce,555-0117,Carlos Gómez,Matemáticas,Matemática,4,2024,9.5,Examen,2024-03-09,1,200,2024-05-05,Mayo
+Isabel Ponce,18/04/2005,JUAN PONCE,5550117,CARLOS GOMEZ,matematicas,MATEMATICA,4,2024,nueve punto cinco,examen,09/03/2024,SI,200,05/05/2024,mayo
+Raul Castro,2006-08-12,Rosa Castro,555-0118,Ana Rodríguez,Lenguaje,Lenguaje,6,2024,6.0,Trabajo,2024-03-09,1,150,2024-05-05,Mayo
+Raúl Castro,12/08/2006,ROSA CASTRO,5550118,ANA RODRIGUEZ,lenguaje,LENGUAJE,6,2024,seis,trabajo,09/03/2024,SI,150,05/05/2024,mayo
+Patricia Soto,2007-05-25,Luis Soto,555-0119,Luis Torres,Ciencias,Física,4,2024,7.0,Prueba,2024-03-10,1,150,2024-05-10,Mayo
+Patricia Soto,25/05/2007,LUIS SOTO,5550119,LUIS TORRES,ciencias,FISICA,4,2024,siete,prueba,10/03/2024,SI,150,10/05/2024,mayo
+Alberto Rojas,2005-10-19,Marta Rojas,555-0120,Marta Díaz,Historia,Historia,3,2024,8.0,Examen,2024-03-10,1,200,2024-05-10,Mayo
+Alberto Rojas,19/10/2005,MARTA ROJAS,5550120,MARTA DIAZ,historia,HISTORIA,3,2024,ocho,examen,10/03/2024,SI,200,10/05/2024,mayo
+Monica Diaz,2006-01-07,Juan Diaz,555-0121,Carlos Gómez,Matemáticas,Matemática,4,2024,6.5,Trabajo,2024-03-11,1,150,2024-05-15,Mayo
+Monica Diaz,07/01/2006,JUAN DIAZ,5550121,CARLOS GOMEZ,matematicas,MATEMATICA,4,2024,seis punto cinco,trabajo,11/03/2024,SI,150,15/05/2024,mayo
