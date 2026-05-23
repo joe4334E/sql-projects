@@ -12,10 +12,11 @@ Cada caso simula un negocio real que usa Excel de forma desordenada y necesita m
 1. Ve a la carpeta `/enunciados/` y elige un caso
 2. Lee el README del caso para entender el problema
 3. Descarga el CSV sucio desde `/data/`
-4. Diseña tu BD: tablas, PK, FK, restricciones
-5. Escribe los scripts SQL
-6. Prueba tus consultas
-7. Sube tu solución a GitHub con capturas
+4. Realiza las normalizaciones dentro de tu data desde el ordenamiento a 1FN hasta 3FN
+5. Diseña tu BD: tablas, PK, FK, restricciones
+6. Escribe los scripts SQL
+7. Prueba tus consultas
+8. Sube tu solución a GitHub con capturas
 
 ---
 
