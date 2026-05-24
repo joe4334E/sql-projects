@@ -2,7 +2,9 @@
 
 ## Descripción del problema
 
-NightClub administra clientes, reservas de mesas, consumos, eventos, DJs e ingresos de barra en Excel. Problemas: reservas duplicadas, horarios inconsistentes ("11pm" vs "23:00"), consumos sin reserva asociada, DJs repetidos con nombres diferentes.
+NightClub administra su información en Excel. El área de clientes registra **clientes** (nombre, teléfono, correo). El área de eventos organiza **eventos** (nombre, fecha, costo del DJ) y **DJs** (nombre, género musical). El área de reservas gestiona **reservas de mesas** (fecha, hora, número de mesa, anticipo, cliente). El área de consumo registra **consumos** (producto, cantidad, precio unitario, reserva asociada). El área de barra lleva el control de **ingresos de barra** (fecha, monto).
+
+Problemas: reservas duplicadas, horarios inconsistentes ("11pm" vs "23:00"), consumos sin reserva asociada, DJs repetidos con nombres diferentes.
 
 ## Tablas requeridas
 

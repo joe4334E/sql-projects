@@ -3,7 +3,9 @@
 
 ## Descripción del problema
 
-SchoolManager administra alumnos, profesores, cursos, matrículas, calificaciones, asistencias y pagos en Excel. Problemas: alumnos duplicados, notas inconsistentes ("6.5", "siete", "7,0"), fechas de pago mal formateadas, asistencias incompletas.
+SchoolManager administra su información en Excel. El área de alumnos registra **alumnos** (nombre, apellido, fecha de nacimiento, apoderado, teléfono). El área de profesores gestiona **profesores** (nombre, especialidad). El área académica controla **cursos** (nombre, horas semanales) y **matrículas** (alumno, curso, año). El área de evaluación registra **calificaciones** (nota, tipo de evaluación, alumno, curso) y **asistencias** (fecha, presente, alumno, curso). El área de tesorería gestiona **pagos de colegiatura** (monto, fecha, mes, alumno).
+
+Problemas: alumnos duplicados, notas inconsistentes ("6.5", "siete", "7,0"), fechas de pago mal formateadas, asistencias incompletas.
 
 ## Tablas requeridas
 

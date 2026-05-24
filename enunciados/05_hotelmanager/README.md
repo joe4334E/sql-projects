@@ -2,7 +2,9 @@
 
 ## Descripción del problema
 
-HotelManager administra huéspedes, habitaciones, tipos de habitación, reservas, consumos, servicios extra y pagos en Excel. Problemas: huéspedes duplicados, fechas de check-in/out inconsistentes, consumos sin reserva asociada, pagos sin reserva vinculada.
+HotelManager administra su información en Excel. El área de recepción registra **huéspedes** (nombre, apellido, teléfono, correo). El área de habitaciones gestiona **habitaciones** (número, tipo, precio por noche). El área de reservas controla **reservas** (check-in, check-out, huésped, habitación). El área de consumo registra **consumos del hotel** (descripción, monto, reserva asociada) y **servicios extra** (nombre, reserva). El área de caja lleva **pagos del hotel** (monto, fecha, reserva).
+
+Problemas: huéspedes duplicados, fechas de check-in/out inconsistentes, consumos sin reserva asociada, pagos sin reserva vinculada.
 
 ## Tablas requeridas
 

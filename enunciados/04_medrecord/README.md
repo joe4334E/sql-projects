@@ -2,7 +2,9 @@
 
 ## Descripción del problema
 
-MedRecord administra pacientes, médicos, especialidades, citas, diagnósticos, recetas y pagos en Excel. Problemas: pacientes duplicados, fechas de cita inconsistentes, diagnósticos sin cita asociada, recetas incompletas.
+MedRecord administra su información en Excel. El área de admisión registra **pacientes** (nombre, apellido, fecha de nacimiento, teléfono, correo, número de seguro). El área médica gestiona **médicos** (nombre, consultorio) y **especialidades** (nombre). El área de agenda controla **citas** (fecha, hora, estado, paciente, médico). El área clínica registra **diagnósticos** (descripción, cita asociada) y **recetas** (medicamento, dosis, diagnóstico). El área de facturación lleva **pagos por consulta** (monto, fecha, paciente).
+
+Problemas: pacientes duplicados, fechas de cita inconsistentes, diagnósticos sin cita asociada, recetas incompletas.
 
 ## Tablas requeridas
 
